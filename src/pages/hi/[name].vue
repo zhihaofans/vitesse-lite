@@ -1,6 +1,7 @@
 <script setup lang="ts">
 const props = defineProps<{ name: string }>()
 const router = useRouter()
+import { NButton } from 'naive-ui'
 </script>
 
 <template>
@@ -20,6 +21,7 @@ const router = useRouter()
       >
         Back
       </button>
+      <n-button @click="router.back()">返回</n-button>
     </div>
   </div>
 </template>

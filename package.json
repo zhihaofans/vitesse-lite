@@ -28,6 +28,8 @@
     "unplugin-vue-components": "^0.17.18",
     "vite": "^2.8.0",
     "vite-plugin-pages": "^0.20.2",
-    "vitest": "^0.3.2"
+    "vitest": "^0.3.2",
+    "naive-ui": "^2.25.3",
+    "vfonts": "^0.0.3",
   }
 }

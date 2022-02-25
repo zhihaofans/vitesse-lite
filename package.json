@@ -30,6 +30,6 @@
     "vite-plugin-pages": "^0.20.2",
     "vitest": "^0.3.2",
     "naive-ui": "^2.25.3",
-    "vfonts": "^0.0.3",
+    "vfonts": "^0.0.3"
   }
 }
